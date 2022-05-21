@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Parthiva Shome, Masters student at IIT Kharagpur
+- 👋 Hi, I’m Parthiva Shome, pursued masters from IIT Kharagpur
+- ✨ Currenly employed as Analyst in Axtria
 - 👀 I’m interested in the field of data and passionate about simulation and predictions
 - 🌱 I’m currently working on Machine Learning algorithm and Neural Networks along with Database management system
 - 💞️ I’m looking to collaborate on the field of data science having a mutually beneficial relation 
